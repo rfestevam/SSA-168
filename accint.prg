@@ -113,7 +113,7 @@ Do Case
                     	Do nfs-s01.05ES.FXP                                  
 
 					Case VLC_CodES == "S01.06ES" && inserido ref. chamado: INC0493656 - 27-12-2017
-                    	Do nfs-s01.06ES.FXP 
+                    	Do nfs-s01.06ES.FXP  
 						
 						&& incluido para atender o chamado INC0223022
 					Case VLC_CodES $ "S01.06W8"
